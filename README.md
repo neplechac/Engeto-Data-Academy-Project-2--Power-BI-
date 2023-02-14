@@ -13,4 +13,5 @@ I decided to use my own dataset – [the results of the presidential elections i
 - Creating at least 1 measure (metric/measure) and 1 calculated column;
 - Graphical editing of the used visuals and a visually appealing final report.
 
-
+![overview](https://i.ibb.co/XbsQB2d/pbi1.png)
+![detail](https://i.ibb.co/NK8cQQL/pbi2.png)
